@@ -44,6 +44,10 @@ The SQL dump is provided in the data/ folder.
 Results are approximate and meant for educational purposes.
 This repository is published on GitHub as a portfolio project.
 
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE
+ file for details.
 ## 👩‍💻 Author
 Setareh
 
