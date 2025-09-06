@@ -28,7 +28,7 @@ population-area-estimation/
    ```bash
    CREATE DATABASE countries;
    ```
-    2. Import the database dump:
+2. Import the database dump:
    ```bash
    mysql -u root -p countries < data/countries.sql
    ```
