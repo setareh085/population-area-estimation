@@ -7,10 +7,15 @@ The goal of the project is to estimate the area of a country based on its popula
 
 ## 📂 Project Structure
 population-area-estimation/
+
 ├── data/
+
 │ └── countries.sql # Database backup
+
 ├── src/
+
 │ └── web.py # Python analysis code
+
 └── README.md # Project documentation
 
 
@@ -51,3 +56,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Setareh
 
 Project created for practicing web scraping, database handling, and data analysis.
+
+## 📘 What I Learned
+In this project, I learned how to perform web scraping, store the collected data in a MySQL database, and analyze it using Python. I also gained experience in database structure and connecting databases with programming languages.
